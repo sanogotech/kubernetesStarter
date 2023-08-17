@@ -24,7 +24,7 @@ ici on veux juste virtualiser la machine physique hardware
 
 ** Docker 
 
-- Image 1, Image 2, Image3
+- Container1( instance imgage1),  Container 2
 - Docker Engine
 - OS
 - Hardware ou Virtual Machine
