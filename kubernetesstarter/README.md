@@ -1,3 +1,33 @@
+# Kubernetes 
+
+* https://youtu.be/2vMEQ5zs1ko
+
+  - Déploiement facile ( avec scalabilité et résidence au panneau redemarre seul)
+    
+  - Développemen de microservive ( service registre et loadbalnacing et api gateway)
+ 
+  - Monitoring et log ( Graphana et prometheus)
+
+Pas d'opposition entre Docker et Kubernetes car Kubernetes est un  orchestrateur de Containers.
+
+
+## Différences en entre Virtual Macine et Docker
+
+*** Virtual Machine
+
+   - Vm1, Vm2, Vm3
+   - Hyperviseur
+   - Machine physique
+ici on veux juste virtualiser la machine physique hardware
+
+** Docker 
+
+- Image 1, Image 2, Image3
+- Docker Engine
+- OS
+- Hardware ou Virtual Machine
+
+  Docker est pour virtualiser OS uniquement et chaque image est isolé et est comme un mini Os linux
 
 
 ## REX Nelson DjaloNelson Djalo
