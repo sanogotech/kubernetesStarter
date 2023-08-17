@@ -1,6 +1,10 @@
 # kafka-docker-kubernetes
 configuration for running kafka in docker and kubernetes
 
+## Kubernetes en 6 minutes 
+
+* https://youtu.be/TlHvYWVUZyc
+
 ## Best practices for creating stateful applications
 1. Create a separate namespace for databases.
 2. Place all the needed components for stateful applications, such as ConfigMaps, Secrets, and Services, in the particular namespace.
