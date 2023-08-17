@@ -13,6 +13,8 @@ Pas d'opposition entre Docker et Kubernetes car Kubernetes est un  orchestrateur
 
 ## Différences en entre Virtual Macine et Docker
 
+* https://youtu.be/a1M_thDTqmU
+  
 *** Virtual Machine
 
    - Vm1, Vm2, Vm3
