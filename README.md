@@ -1,5 +1,6 @@
 # Kubernetes 
 
+![architecture Kubernetes](https://github.com/sanogotech/kubernetesStarter/blob/main/archikubernetes.png)
 
 ## kafka-docker-kubernetes
 configuration for running kafka in docker and kubernetes
