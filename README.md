@@ -1,6 +1,19 @@
 # kafka-docker-kubernetes
 configuration for running kafka in docker and kubernetes
 
+## Docker Engine,  Docker Image,  Containers,  Kubernetes 
+
+Containers is instance running of Docker Image on Docker Engine .
+
+Kubernetea: Containers Orchestration for nonfunctional features :
+- Load balancer 
+- Service registry
+- Api manager
+- supervision Graphana et prometheus
+- autoscalling
+- restart
+- Failover
+
 ## Kubernetes en 6 minutes 
 
 * https://youtu.be/TlHvYWVUZyc
