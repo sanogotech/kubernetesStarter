@@ -31,6 +31,8 @@ A k8s cluster consists of a set of worker machines, called nodes, that run conta
 
 The worker node(s) host the Pods that are the components of the application workload. The control plane manages the worker nodes and the Pods in the cluster. In production environments, the control plane usually runs across multiple computers and a cluster usually runs multiple nodes, providing fault tolerance and high availability. [1]
 
+![Kubernetes ](https://github.com/sanogotech/kubernetesStarter/blob/main/kubernetesComponent.jpg)
+
 * Control Plane Components
 
 - API ServerThe API server talks to all the components in the k8s cluster. All the operations on pods are executed by talking to the API server.
