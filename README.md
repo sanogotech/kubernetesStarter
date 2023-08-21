@@ -3,6 +3,11 @@
 ![architecture Kubernetes](https://github.com/sanogotech/kubernetesStarter/blob/main/archikubernetes.png)
 
 
+## Docker
+
+![Docker ](https://github.com/sanogotech/kubernetesStarter/blob/main/images/dockersystem.jpg)
+
+
 ##  Docker  vs Kubernetes
 
 
