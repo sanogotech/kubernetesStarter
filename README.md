@@ -66,6 +66,10 @@ The worker node(s) host the Pods that are the components of the application work
 
 Reference [1]: kubernetes.io/docs/concepts/overview/components/
 
+##  Kubernetes Troubleshooting flowchart
+
+![Kubernetes Troubleshooting flowchart](https://github.com/sanogotech/kubernetesStarter/blob/main/images/kubernetesTroubleshootingsteps.png)
+
 ## kafka-docker-kubernetes
 configuration for running kafka in docker and kubernetes
 
